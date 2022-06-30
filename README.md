@@ -1,6 +1,6 @@
 ## Getting Started
 
-As funções implementadas neste algoritmo podem ser encontradas [aqui](http://www.sfu.ca/~ssurjano/optimization.html)
+As funções implementadas neste algoritmo podem ser encontradas em [http://archive.ics.uci.edu/ml/datasets/Fertility]
 
 ## Folder Structure
 
